@@ -5,7 +5,7 @@ If Colab has key but access is not granted, then it will ask for access and use 
 
 This utility will simplify keeping secret out of sample Jupyter Notebook provided that sample can be run on Google colab as well. 
 
-[![Demo](media/demo-image.png)](media/demo.webm)
+
 
 # Usage 
 
@@ -51,3 +51,6 @@ print(f"The value for {key_name} is: {value}")
 
 ## Colab notebook
 Try out on [Google Colab notebook](https://colab.research.google.com/github/bkakadiya/env-colab-pass/blob/main/tests/colab_userdata_getpass.ipynb) 
+
+
+![Colab demo](media/demo-image.png)
