@@ -5,7 +5,7 @@ If Colab has key but access is not granted, then it will ask for access and use 
 
 This utility will simplify keeping secret out of sample Jupyter Notebook provided that sample can be run on Google colab as well. 
 
-[Demo](media/demo.webm)
+[![Demo](media/demo-image.png)](media/demo.webm)
 
 # Usage 
 
