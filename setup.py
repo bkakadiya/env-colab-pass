@@ -9,7 +9,7 @@ setup(
     version='0.3',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    packages=find_packages(exclude=["tests", "tests.*"]),
+    packages=find_packages(exclude=["tests", "tests.*", "media"]),
     install_requires=[],
     extras_require= {
         'google-colab': ['google-colab']
